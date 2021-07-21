@@ -48,12 +48,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44 &show_icons=true&theme=dark&locale=en" alt="SauravMukherjee44" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44 &show_icons=true&theme=dark&locale=en" alt="SauravMukherjee" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&theme=dark&locale=en&layout=compact" alt="SauravMukherjee44" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee44" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigar-sable&label=Profile%20views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee44" /> </p>
