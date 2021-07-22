@@ -19,7 +19,7 @@ I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Besi
 </p>
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
-h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 
 
 
@@ -28,7 +28,7 @@ h1 align="center">Projects</h1>
 | :---:        |    :----   |  
 | [My Portfolio Website](sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [College Library Website](sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1)     | In this regression task we will predict the |percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
 
 <hr>
 <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
