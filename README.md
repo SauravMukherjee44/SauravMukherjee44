@@ -19,7 +19,36 @@ I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Besi
 </p>
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
+h1 align="center">Projects</h1>
 
+
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [My Portfolio Website](sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. |
+
+| [College Library Website](sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have issued. 
+          © 2021 Saurav Mukherjee |
+| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1)     | In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. |
+
+<hr>
+<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+
+<h1 align="center">Let's Get Connected</h1>
+
+Recently I have started A Youtube Channel & telegram channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
+
+<div align="center">
+
+<a  href="https://www.youtube.com/channel/UC9lHcqq-TOWCW_ee6fVwhrg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/rohan-k-2502/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rohan_2502" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:rohank2502@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<a  href="https://t.me/rohankulkarnichannel"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</div>
 
 <table>
   <tr>
@@ -32,3 +61,6 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p>
+   <div align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+
