@@ -2,7 +2,7 @@
 
 A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science Degree</b> from Asansol Engineering College. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center">A Passionate Web And App Developer | Data Scientist Machine learning enthusiast </h3>
+<h3 align="center">A Passionate Web And App Developer | Data Scientist | Machine learning enthusiast </h3>
 
 <h1 align="center">Tech-Stack</h1>
 
@@ -43,7 +43,7 @@ Recently I have started A Youtube Channel & Discord channel in which will try to
 <a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a 
-<li><a class="Discord" href=" https://discord.gg/hWwbgP4dz9" target="_blank"><i class="fab fa-discord"></i></a></li>
+
 </div>
 
 <table>
