@@ -58,5 +58,5 @@ Recently I have started A Youtube Channel & Discord channel in which will try to
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p>
    <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"/></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
