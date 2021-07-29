@@ -4,6 +4,9 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science 
 
 <h3 align="center">A Passionate Web And App Developer | Data Scientist | Machine learning enthusiast </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p>
+   <div align="center">
+
 <h1 align="center">Tech-Stack</h1>
 
 I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
@@ -56,7 +59,6 @@ Recently I have started A Youtube Channel & Discord channel in which will try to
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p>
-   <div align="center">
+
  <img src="https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
