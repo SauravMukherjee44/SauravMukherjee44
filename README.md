@@ -60,5 +60,5 @@ Recently I have started A Youtube Channel & Discord channel in which will try to
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
   </div>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
 
