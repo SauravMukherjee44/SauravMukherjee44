@@ -8,7 +8,7 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
 
-<h1 align="center">Tech-Stack</h1>
+<pre><h1 align="center">Tech-Stack</h1><pre>
 
 I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
