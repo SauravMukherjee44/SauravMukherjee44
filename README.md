@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science Degree</b> from Asansol Engineering College. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
