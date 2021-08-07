@@ -8,7 +8,7 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
 
-<h1>Tech-Stack</h1>
+<h1>Technical Skills 🛠</h1>
    
 I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
@@ -20,7 +20,9 @@ I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Besi
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 </p>
+  
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
 <h1 align="center">Projects</h1>
