@@ -23,9 +23,11 @@ I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Besi
  <img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" />
  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/>
- <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+ <img alt="AWS" src="https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff" /> 
+   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+   
 </p>
 
   
