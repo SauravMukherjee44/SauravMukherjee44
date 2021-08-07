@@ -26,8 +26,8 @@ I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Besi
  <img alt="AWS" src="https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff" /> 
-   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
    
 </p>
 
