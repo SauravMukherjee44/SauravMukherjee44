@@ -10,7 +10,7 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing a <b>Computer Science 
 
 <h1>Technical Skills 🛠</h1>
    
-I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I have learned webdevelopment and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
