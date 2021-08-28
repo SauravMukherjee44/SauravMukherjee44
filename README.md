@@ -55,7 +55,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started A Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
+Recently I have started a Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
 
 <div align="center">
 
@@ -64,6 +64,7 @@ Recently I have started A Community to help my fellow mates.Join the Telegram Ch
 <a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href=" https://discord.gg/hWwbgP4dz9"><img alt=" Telegram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </div>
 
