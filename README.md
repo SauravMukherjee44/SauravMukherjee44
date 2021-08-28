@@ -55,7 +55,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started a Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help</p>
+Recently I have started a Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help you.</p>
 
 <div align="center">
 
