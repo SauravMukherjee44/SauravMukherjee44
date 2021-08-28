@@ -11,7 +11,8 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned webdevelopment and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras.Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras.Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
+Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
