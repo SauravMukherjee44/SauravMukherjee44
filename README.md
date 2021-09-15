@@ -89,7 +89,7 @@ Recently I have started a Community to help my fellow mates.Join the Telegram Ch
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></p>
   </div>
 
  [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
