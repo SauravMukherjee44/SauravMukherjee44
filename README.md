@@ -94,5 +94,4 @@ Recently I have started a Community to help my fellow mates.Join the Telegram Ch
 
  [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SauravMukherjee44.SauravMukherjee44)
 [![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
