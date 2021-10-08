@@ -4,7 +4,7 @@
 
 A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center">A Passionate Web And App Developer | Machine learning enthusiast </h3>
+<h3 align="center"> Web And App Developer | Machine Learning Enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
