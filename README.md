@@ -67,8 +67,6 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started a Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help you.</p>
-
 <div align="center">
 
 <a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
@@ -83,13 +81,15 @@ Recently I have started a Community to help my fellow mates.Join the Telegram Ch
       
    <h1 align="center">CodeIN Community</h1>
       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
- </div>
+ 
 I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize Events on different technologies to help people to get started with these technologies.
 
-   <h2>Join the Community ⚡</h2>
+  <span> <h2>Join the Community ⚡</h2>
 <a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
+   
+ </div>
    
 <table>
   <tr>
