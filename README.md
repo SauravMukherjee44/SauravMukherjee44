@@ -9,7 +9,7 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
    
-   <h1 align="center">Let's Get Connected</h1>
+   <h1 align="left">Let's Get Connected</h1>
 
 <div align="left">
 
