@@ -79,6 +79,10 @@ Recently I have started a Community to help my fellow mates.Join the Telegram Ch
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </div>
+   
+   <h1 align="center">CodeIN Community</h1>
+I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize events on different technologies to help people to get started with these technologies.
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
 
 <table>
   <tr>
