@@ -93,7 +93,7 @@ We are providing 1:1 Mentorship on our Discord server totally free of cost.
 Join the community on Discord for interaction with students from all over India.
 
 Visit us at: 
-      <a href="https://codeincommunity.tech"><img alt="Website"></a>
+ <a href="https://codeincommunity.tech"><img alt="Website" src="/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io"></a>
 
   <span> <h2>Join the Community on Discord ⚡</h2>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
