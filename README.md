@@ -1,8 +1,8 @@
-![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/c8529af276cd01e274ac38231e5be0c8f2d3b139/Banner.png)
+![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/1abba5a1ffdfddb90e219f51011e4f740c70cbca/Banner.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my pre-final year, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
 
@@ -86,8 +86,14 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       
    <h1 align="center">CodeIN Community</h1>
       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
- 
-I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize Events on different technologies to help people to get started with these technologies.
+<br>
+I started India's Top Growing Student Technical Community of 6,000+ Students. Where we organize Events, Hackathons, and Workshops on different Technologies. Also, We Share Resources, Roadmaps to learn different technologies and share opportunities related to Internships and different tech programs.
+We are providing 1:1 Mentorship on our Discord server totally free of cost.
+
+Join the community on Discord for interaction with students from all over India.
+
+Visit us at: 
+ <a href="https://codeincommunity.tech"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 
   <span> <h2>Join the Community on Discord ⚡</h2>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
