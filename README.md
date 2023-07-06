@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my pre-final year, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my final year, As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
 
@@ -10,9 +10,7 @@ A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
-   
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+ 
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -47,7 +45,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 </p>
 
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
 
 <h1 align="center">Projects</h1>
 
