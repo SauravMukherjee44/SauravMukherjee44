@@ -54,15 +54,12 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website where you can keep a record of all the books you have    | issued.© 2022 Saurav Mukherjee 
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Menses](https://sauravmukherjee44.github.io/Menses/)     | Menses-Enables Menstrual Hygiene Solutions Tech Used: Google Maps API, Html5, bootstrap5, JavaScript
-SCSS, email.js, firebase, Firestore, and Alan AI.
-
-| [Netflix-Clone-react-App](https://clone-netflix-next-js.vercel.app/)     | Netflix clone App built with ReactJS, NextJS TMDB Api, Firebase, CSS and JavaScript.
-| [Amazon Clone Marketplace (](https://amazon-sclone.vercel.app/)     |Amazon clone e-commerce full stack web app built using ReactJS
-and NextJS. Tech Used: ReactJS, Webhooks, Stripe Payments API for Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS and Vercel.
+| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. |
+| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website where you can keep a record of all the books you have issued.© 2022 Saurav Mukherjee| 
+| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.|
+| [Menses](https://sauravmukherjee44.github.io/Menses/)     | Menses-Enables Menstrual Hygiene Solutions Tech Used: Google Maps API, Html5, bootstrap5, JavaScript SCSS, email.js, firebase, Firestore, and Alan AI. | 
+| [Netflix-Clone-react-App](https://clone-netflix-next-js.vercel.app/)     | Netflix clone App built with ReactJS, NextJS TMDB API, Firebase, CSS and JavaScript. |
+| [Amazon Clone Marketplace](https://amazon-sclone.vercel.app/)     | Amazon clone e-commerce full stack web app built using ReactJS and NextJS. Tech Used: ReactJS, Webhooks, Stripe Payments API for Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS and Vercel. |
 
  <h1 align="center">Let's Get Connected</h1>
 
