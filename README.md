@@ -2,9 +2,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my final year, As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
+
+<h3 align="center"> Full Stack Web Developer | Machine Learning Enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
