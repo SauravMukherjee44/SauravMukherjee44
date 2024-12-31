@@ -1,4 +1,4 @@
-![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/7f35e313aff47d39f4105b120cc21d52b4409453/Banner.png)
+![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/9f72485779915af6851bc2afefc139d2eff5a671/github_banner.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
