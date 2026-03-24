@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center"> Full Stack Web Developer | Machine Learning Enthusiast </h3>
+<h3 align="center"> Full Stack Web Developer | AI Engineer </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
