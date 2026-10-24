@@ -1,103 +1,108 @@
-![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/9f72485779915af6851bc2afefc139d2eff5a671/github_banner.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
-
-
-
-<h3 align="center"> Full Stack Web Developer | AI Engineer </h3>
-
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
-   <div align="center">
-
-<h1>Technical Skills 🛠</h1>
- 
-
-<p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
- <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<p align="center">
+  <a href="https://sauravmukherjee.in"><img src="assets/profile/hero.svg" width="100%" alt="Saurav Mukherjee — AI engineer at EY, product builder, and community catalyst based in Kolkata, India" /></a>
 </p>
 
+<p align="center">
+  <a href="https://sauravmukherjee.in"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-191D2B?style=for-the-badge&amp;logo=safari&amp;logoColor=A7F3D0" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sauravmukherjee44/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-191D2B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=B49AFF" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sauravmukherjee928@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-191D2B?style=for-the-badge&amp;logo=gmail&amp;logoColor=F0B6CB" alt="Email Saurav" /></a>
+</p>
 
+## I build AI systems that can show their work.
 
+I'm **Saurav Mukherjee**, an **AI Engineer at EY** working on enterprise agents, multimodal retrieval, evaluation, and governance. Outside work, I build products that turn messy information into something people can inspect, trust, and use—and help developers find their way into open source.
 
- <h1 align="center">Let's Get Connected</h1>
+**My recurring questions:** Where did the evidence come from? What can the agent actually do? Where does human judgment belong?
 
-<div align="center">
+<p align="center">
+  <img src="assets/profile/typing.svg" width="100%" alt="Evidence into workflows. Open models with explicit boundaries. Useful tools and stronger communities." />
+</p>
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a  href="https://www.instagram.com/mesouravofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>
+## Selected builds
 
-   
-   
-</div>
-  
+Six ways I'm exploring those questions. Each card opens the source; the links below lead to the product or its documentation.
 
-   <div align="center">
-      
-   <h1 align="center">CodeIN Community</h1>
-      <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
-<br>
-I started India's Top Growing Student Technical Community of 10,000+ Students. Where we organize Events, Hackathons, and Workshops on different Technologies. Also, We Share Resources, Roadmaps to learn different technologies and share opportunities related to Internships and different tech programs.
-We are providing 1:1 Mentorship on our Discord server totally free of cost.
-
-Join the community on Discord for interaction with students from all over India.
-
-Visit us at: 
- <a href="https://codeincommunity.tech"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
-
-  <span> <h2>Join the Community on Discord ⚡</h2>
-<a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
-   
- </div>
-   
-   
 <table>
   <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/SwaPilot"><img src="assets/profile/swapilot.svg" width="100%" alt="SwaPilot — on-device intelligence, product and pilot" /></a>
+      <p><strong>SwaPilot</strong> explores an on-device AI OS for business: local intelligence, business memory, and workflows. The public repository contains the pilot website, research hub, and interactive product demo.</p>
+      <p><a href="https://github.com/SauravMukherjee44/SwaPilot">Explore the pilot →</a> · <a href="https://github.com/SauravMukherjee44/Swapilot-App">App development →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/OpsWeave"><img src="assets/profile/opsweave.svg" width="100%" alt="OpsWeave — enterprise workflow compiler" /></a>
+      <p><strong>OpsWeave</strong> turns PDFs, images, audio, spreadsheets, and API specifications into versioned workflows—with typed validation, evaluation gates, human approvals, and inspectable execution.</p>
+      <p><a href="https://opsweave.sauravmukherjee.in/">Open the workspace →</a> · <a href="https://github.com/SauravMukherjee44/OpsWeave#architecture">Architecture →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/HealthAI-Agent-Lab"><img src="assets/profile/healthai.svg" width="100%" alt="HealthAI Agent Lab — open-model health-screening research" /></a>
+      <p><strong>HealthAI Agent Lab</strong> is an educational health-screening research system combining open-weight language models, local voice inference, versioned ONNX specialists, and deterministic safety controls.</p>
+      <p><a href="https://healthai.sauravmukherjee.in/">Explore the research demo →</a> · <a href="https://github.com/SauravMukherjee44/HealthAI-Agent-Lab">Models & boundaries →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/CodeIN-Community"><img src="assets/profile/codein.svg" width="100%" alt="CodeIN Community — learning, open source, and a developer toolkit since 2021" /></a>
+      <p><strong>CodeIN Community</strong> is the developer community I founded in 2021. It brings together learning programs, mentorship, contribution pathways, browser utilities, maintainer tools, TypeScript libraries, and a CLI.</p>
+      <p><a href="https://codeincommunity.com/">Meet the community →</a> · <a href="https://codeincommunity.com/tools">Use the toolkit →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/SignalForge"><img src="assets/profile/signalforge.svg" width="100%" alt="SignalForge — voice-driven, evidence-grounded incident command" /></a>
+      <p><strong>SignalForge</strong> joins live incident rooms, turns conversation into attributable evidence, and coordinates specialist responders. Consequential actions stay under the human incident commander's control.</p>
+      <p><a href="https://github.com/SauravMukherjee44/SignalForge">Explore the system →</a> · <a href="https://signalforge-architecture.netlify.app/">Interactive architecture →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/SauravMukherjee44/VerdaTrace"><img src="assets/profile/verdatrace.svg" width="100%" alt="VerdaTrace — source-cited environmental intelligence" /></a>
+      <p><strong>VerdaTrace</strong> connects environmental approvals, amendments, maps, and field evidence to source-cited obligations, spatial review, and human-approved reports in an evidence-first MVP.</p>
+      <p><a href="https://verdatrace.com/">Explore the workspace →</a> · <a href="https://github.com/SauravMukherjee44/VerdaTrace">Source & product scope →</a></p>
+    </td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
-  </div>
-   
-   
+## Beyond the code
 
-[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
+**Good systems need good communities.** I founded [CodeIN Community](https://codeincommunity.com/) to help people move from following tutorials to building, collaborating, and making their first contribution.
+
+| Community members | Events hosted | Contributors credited | Cloud learners mentored |
+| :---------------: | :-----------: | :-------------------: | :---------------------: |
+|    **15,000+**    |    **45+**    |        **150**        |       **4,000+**        |
+
+The first two figures are published CodeIN milestones; 150 is its preserved contributor baseline. The 4,000+ learners reflect my work with the Google Cloud Ready Facilitator Program.
+
+- **Maintaining in public:** [CodeIN's original history and contributor credits](https://codeincommunity.com/heritage), alongside a modern website and open developer toolkit.
+- **Teaching and mentoring:** former Google DSC Lead (2022), Google Cloud Ready facilitator, and 100+ live one-to-one coding classes through ConnectBud.
+- **Contributing beyond my projects:** [follow my pull requests](https://github.com/search?q=is%3Apr+author%3ASauravMukherjee44&type=pullrequests) for fixes and behavior-focused regression tests.
+
+[Join CodeIN on Discord](https://discord.com/invite/sqFRzrj7f3) · [Community LinkedIn](https://www.linkedin.com/company/codein-community/) · [Community Telegram](https://t.me/CodeINCommunity)
+
+## My engineering toolkit
+
+<p align="center">
+  <img src="assets/profile/stack.svg" width="660" alt="Python, TypeScript, React, Next.js, FastAPI, PyTorch, Azure, AWS, Docker, Terraform, PostgreSQL, and Git" />
+</p>
+
+| Focus                  | Tools and practices                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Agents & retrieval** | Agentic RAG, multi-agent orchestration, MCP, Semantic Kernel, hybrid search, evaluations, guardrails         |
+| **Applied AI**         | Azure AI Foundry, Azure OpenAI, Amazon Bedrock, Hugging Face, PyTorch, ONNX, scikit-learn                    |
+| **Product & platform** | Python, TypeScript, FastAPI, Next.js, React, PostgreSQL, AWS, Azure, Docker, Terraform, CI/CD, observability |
+
+At **EY**, I work on role-aware multimodal retrieval, grounded test-generation agents, and AI governance. Previously at **SMIIT**, I built ML-driven threat-detection pipelines for security telemetry. I hold a **B.Tech in Computer Science and Engineering** from Asansol Engineering College.
+
+## Let's build something useful.
+
+I'm interested in applied AI, developer tools, open models, and products with a clear human purpose. Have a thoughtful problem, a collaboration idea, or a community initiative?
+
+**[Visit my portfolio](https://sauravmukherjee.in)** · **[Connect on LinkedIn](https://www.linkedin.com/in/sauravmukherjee44/)** · **[Send me a note](mailto:sauravmukherjee928@gmail.com)**
+
+[Instagram](https://www.instagram.com/mesouravofficial/) · [X / Twitter](https://x.com/mesourav44) · [YouTube](https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw)
+
+<details>
+  <summary>Visual credits & how this profile is built</summary>
+  <br />
+  Original SVG hero and project cards, paired with <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a>, <a href="https://github.com/kyechan99/capsule-render">Capsule Render</a>, <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>, and <a href="https://github.com/badges/shields">Shields</a>. Inspired by the community's <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome profile READMEs</a>. The main visuals are stored in this repository. <a href="assets/profile/README.md">Asset sources and credits →</a>
+</details>
+
+<img src="assets/profile/footer.svg" width="100%" alt="Violet-to-mint gradient wave" />
